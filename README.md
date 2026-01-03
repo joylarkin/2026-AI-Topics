@@ -1,4 +1,4 @@
-# 2025-AI-Topics  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/2025-AI-Topics)  
+# 2026-AI-Topics  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/2025-AI-Topics)  
 
 📌 AI Infrastructure & Compute
 - AI Infrastructure 
