@@ -124,6 +124,7 @@
 - Reasoning AI
 - Small Language Models
 - SLMs
+- Local AI
 - Narrow AI
 - General AI
 - AGI
