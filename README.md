@@ -32,11 +32,16 @@
 - AI Frameworks
 - LLM Frameworks
 - AI Software Testing
+- AI Code Review
+- AI Debugging
 - AI Observability
 - AI Orchestration
 - AI Evaluation
 - AI Workflow
-
+- Model Context Protocol
+- MCP
+- Prompt Engineering
+- Context Windows
 🗃️ AI Data Management
 - AI Databases
 - AI Vector Databases
@@ -57,6 +62,11 @@
 - AI Memory
 - AI Data
 - Data AI
+- Retrieval-Augmented Generation
+- RAG
+- Synthetic Data
+- AI Synthetic Data
+- AI Knowledge Graphs
 
 ⚙️ AI Agents & Automation
 - AI Automation
@@ -64,6 +74,10 @@
 - AI RPA
 - AI Agents
 - Agentic AI
+- Multi-Agent Systems
+- AI Workflows
+- Computer Use AI
+- Browser Agents
 - AI Chatbots
 - AI Assistants
 - Voice AI
@@ -104,6 +118,15 @@
 - Applied AI
 - Applied AI Labs
 - Private AI
+- Constitutional AI
+- Aligned AI
+- AI Alignment
+- Reasoning AI
+- Small Language Models
+- SLMs
+- Narrow AI
+- General AI
+- AGI
 
 🏦 Industry-specific AI
 - Fintech AI
@@ -142,6 +165,9 @@
 - Physical AI
 - Industrial AI
 - Embodied AI
+- Humanoid AI
+- Humanoid Robotics
+- AI Drones
 - Automotive AI
 - AI Transportation
 - AI Manufacturing
@@ -168,6 +194,11 @@
 - AI Gaming
 - Entertainment AI
 - Media AI
+- AI Music
+- AI Film
+- AI Video Production
+- AI Art
+- AI Image Generation
 
 🔍 AI Search & Localization
 - AI Search
@@ -182,8 +213,10 @@
 - Government AI
 - Business AI
 - Sovereign AI
-
-
-
-
- 
+- AI Governance
+- AI Safety
+- AI Ethics
+- Responsible AI
+- AI Compliance
+- AI Red Teaming
+- AI Policy
